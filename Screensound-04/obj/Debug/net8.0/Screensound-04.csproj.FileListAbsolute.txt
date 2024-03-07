@@ -1,0 +1,14 @@
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\bin\Debug\net8.0\Screensound-04.exe
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\bin\Debug\net8.0\Screensound-04.deps.json
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\bin\Debug\net8.0\Screensound-04.runtimeconfig.json
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\bin\Debug\net8.0\Screensound-04.dll
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\bin\Debug\net8.0\Screensound-04.pdb
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\Screensound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\Screensound-04.AssemblyInfoInputs.cache
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\Screensound-04.AssemblyInfo.cs
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\Screensound-04.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\Screensound-04.dll
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\refint\Screensound-04.dll
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\Screensound-04.pdb
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\Screensound-04.genruntimeconfig.cache
+C:\Users\Alfa User\Documents\C-Sharp-consumindo-API\Screensound-04\obj\Debug\net8.0\ref\Screensound-04.dll
